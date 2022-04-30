@@ -4,6 +4,8 @@ Hi 👋 My name is Ankit Gupta
 Web Developer | UX/UI
 ---------------------
 
+I've been learning to code for 3 years, after switching careers. I started with HTML, and have really found a passion for Full Stack Development..
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [guptankit753@gmail.com](mailto:guptankit753@gmail.com)
 * 🧠  I'm learning MERN Full Stack Development
